@@ -1,6 +1,9 @@
 # File Thingie - PHP File Manager
 File Thingie is a PHP file manager for managing local files. See more at [http://www.solitude.dk/filethingie/](http://www.solitude.dk/filethingie/)
 
+Project Page:-
+http://sohil876.github.com/xFilethingie
+
 DEMO
 http://www.sohil876.in/
 
